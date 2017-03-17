@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <LogzioAppender name="Logzio">
+            <logzioToken>nexcelZBXdTTLetbujsSzAqWhyBBrXjG</logzioToken>
+            <logzioType>java</logzioType>
+        </LogzioAppender>
+
+    </Appenders>
+    <Loggers>a
+        <Root level="info">
+            <AppenderRef ref="Logzio"/>
+        </Root>
+    </Loggers>
+</Configuration>
