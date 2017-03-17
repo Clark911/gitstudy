@@ -38,6 +38,7 @@
 
     <!-- junit -->
 <!-- ok you  are niubi-->
+<!--test-->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
